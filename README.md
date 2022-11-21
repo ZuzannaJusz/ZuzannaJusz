@@ -1,6 +1,6 @@
 Hi, I am Zuzanna.
 
-You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/" width="20" height="40">![Foo](https://cdn-icons-png.flaticon.com/512/174/174857.png) </a>
+You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="40">![Foo](https://cdn-icons-png.flaticon.com/512/174/174857.png) </a>
 I am graduate of an technical and IT oriented universities. 
 I have been developing my skills in machine learning, data wrangling and deep learning.
 I am currently looking for a job where i can learn and develop as Data Scientist or 
