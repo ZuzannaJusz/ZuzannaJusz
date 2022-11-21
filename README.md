@@ -1,11 +1,13 @@
 Hi, I am Zuzanna.
 
-You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="40" height="40"> </a>
-I am graduate of an technical and IT oriented universities. 
+I am graduate of an Aerospace Engineering and Podstgraudate studies Data Science. 
 I have been developing my skills in machine learning, data wrangling and deep learning.
 I am currently looking for a job where i can learn and develop as Data Scientist or 
 Machine Learning Engineer. 
 
+
+---
+You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"> </a>
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <p align="left">
@@ -18,3 +20,9 @@ Machine Learning Engineer.
 <img src="https://bms.com.pl/wordpress/wp-content/uploads/2015/10/microsoft-sql-server-logo.png" width="60" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="40" height="40" />
 </p>
+
+---
+### My projects:
+- Postgraduate studies thesis - Analysis and cryptocurrencies prediction using XGBoost library
+- Forecasting cryptocurrencies with Tensorflow [here](https://github.com/ZuzannaJusz/crypto_forecast) 
+- Dashboard with TGE Prices (work in progress)
