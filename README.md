@@ -7,7 +7,7 @@ Machine Learning Engineer.
 
 
 ---
-You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"> </a>
+#### You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"> </a>
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <p align="left">
