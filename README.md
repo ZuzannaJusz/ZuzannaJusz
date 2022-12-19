@@ -25,4 +25,5 @@ Machine Learning Engineer.
 ### My projects:
 - Postgraduate studies thesis - Analysis and cryptocurrencies prediction using XGBoost library
 - Forecasting cryptocurrencies with Tensorflow [here](https://github.com/ZuzannaJusz/crypto_forecast) 
-- Dashboard with TGE Prices (work in progress)
+- App with Aribnb info in Amsterdam created with pandas [here](https://github.com/ZuzannaJusz/Amsterdam-airbnb-in-pandas) and created with numpy [here](https://github.com/ZuzannaJusz/Amsterdam_airbnb). Projects were made during the CoRise course for Data Science
+- Dashboard with flights information (work in progress)
