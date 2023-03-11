@@ -1,7 +1,7 @@
 Hi, I am Zuzanna.
 
 I am graduate of an Aerospace Engineering and Podstgraudate studies Data Science. 
-I have been developing my skills in machine learning, data wrangling and deep learning.
+I have been developing my skills in machine learning, data wrangling and deep learning. 
 I am currently looking for a job where i can learn and develop as Data Scientist or Machine Learning Engineer. 
 
 
