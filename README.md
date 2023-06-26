@@ -2,7 +2,7 @@ Hi, I am Zuzanna.
 
 I am graduate of an Aerospace Engineering and Podstgraudate studies Data Science. 
 I have been developing my skills in machine learning, data wrangling and deep learning. 
-I have 6 months of experience working at Data Modeling Section in Security Department of PKO BP, where I was supporting building machine learning models and analytical strategies.
+I have 6 months of experience working at Data Modeling Section in Security Department of PKO BP, where I am supporting building machine learning models and analytical strategies.
 I am currently looking for a job where I can learn and develop as Data Scientist or Machine Learning Engineer. 
 
 
