@@ -25,6 +25,6 @@ I am currently looking for a job where I can learn and develop as Data Scientist
 - Postgraduate studies thesis - Analysis and cryptocurrencies prediction using XGBoost library
 - Forecasting cryptocurrencies with Tensorflow [here](https://github.com/ZuzannaJusz/crypto_forecast) 
 - App with Aribnb info in Amsterdam created with pandas [here](https://github.com/ZuzannaJusz/Amsterdam-airbnb-in-pandas) and created with numpy [here](https://github.com/ZuzannaJusz/Amsterdam_airbnb). Projects were made during the CoRise course for Data Science.
-- Dashboard with flights information (work in progress)
+- Breast Cancer prediction and classification (work in progress)
 ---
 
