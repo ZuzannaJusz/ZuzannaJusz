@@ -24,6 +24,6 @@ I have been developing my skills in machine learning, data wrangling and deep le
 - Postgraduate studies thesis - Analysis and cryptocurrencies prediction using XGBoost library
 - Forecasting cryptocurrencies with Tensorflow [here](https://github.com/ZuzannaJusz/crypto_forecast) 
 - App with Aribnb info in Amsterdam created with pandas [here](https://github.com/ZuzannaJusz/Amsterdam-airbnb-in-pandas) and created with numpy [here](https://github.com/ZuzannaJusz/Amsterdam_airbnb). Projects were made during the CoRise course for Data Science.
-- Breast Cancer prediction and classification (work in progress)
+- Breast Cancer prediction and classification 
 ---
 
