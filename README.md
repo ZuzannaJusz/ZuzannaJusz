@@ -1,9 +1,8 @@
 Hi, I am Zuzanna.
 
-I am Junior Data Scientist working at Data Modeling Section in Security Department of PKO BP, where I am supporting building machine learning models and analytical strategies.
+I am Data Scientist working at Data Modeling Section in Security Department of PKO BP, where I am supporting building machine learning models and analytical strategies.
 I am graduate of an Aerospace Engineering and Podstgraudate studies Data Science. 
 I have been developing my skills in machine learning, data wrangling and deep learning. 
-I am currently looking for a job where I can learn and develop as Data Scientist or Machine Learning Engineer. 
 
 ---
 #### You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"> </a>
