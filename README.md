@@ -5,7 +5,7 @@ I am graduate of an Aerospace Engineering and Podstgraudate studies Data Science
 I have been developing my skills in machine learning, data wrangling and deep learning. 
 
 ---
-#### You can reach me here -> <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"> </a>
+#### You can reach me here <a href="https://www.linkedin.com/in/zuzanna-juszczak-757aa21b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"> </a>
 ---
 ### My projects:
 - Postgraduate studies thesis - Analysis and cryptocurrencies prediction using XGBoost library
